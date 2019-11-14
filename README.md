@@ -6,13 +6,11 @@ This project consumes the pixabay api for searching and retrieving free images u
 For more information about pixabay api, visit:
 https://pixabay.com/api/docs/
 
-
-Clone the project and run `npm install` in the project directory to install dependencies
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
+
+To install dependencies run:
+
+### `npm install`
 
 In the project directory, you can run:
 
