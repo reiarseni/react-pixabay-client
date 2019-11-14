@@ -1,6 +1,8 @@
 
 This project consumes the pixabay api for searching and retrieving free images under the Pixabay License.
 
+![react-pixabay-client](https://github.com/reiarseni/react-pixabay-client/blob/master/React%20Pixabay%20App.jpg)
+
 For more information about pixabay api, visit:
 https://pixabay.com/api/docs/
 
